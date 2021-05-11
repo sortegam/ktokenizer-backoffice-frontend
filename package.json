@@ -36,7 +36,7 @@
     "date-fns": "^1.29.0",
     "flag-icon-css": "^3.2.0",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "perfect-scrollbar": "^1.4.0",
     "query-string": "^6.1.0",
     "simple-line-icons": "^2.4.1",
